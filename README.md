@@ -61,7 +61,7 @@ This analysis helps stakeholders:
 
 ![Workflow Diagram Placeholder](images/workflow-diagram.png)
 
-### Suggested Workflow Diagram Structure
+### Workflow Diagram Structure
 
 ```text
 Jobs API

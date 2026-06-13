@@ -59,9 +59,7 @@ This analysis helps stakeholders:
 
 ## Workflow Diagram
 
-> Replace the image below with your workflow graphic.
-
-![Workflow Diagram Placeholder](images/workflow-diagram-placeholder.png)
+![Workflow Diagram Placeholder](images/workflow-diagram.png)
 
 ### Suggested Workflow Diagram Structure
 
@@ -119,21 +117,15 @@ API Data Collection → Web Scraping → Survey Processing
 
 ### Dashboard Tab 1: Current Technology Usage
 
-> Replace with screenshot of Cognos Dashboard Tab 1
-
-![Current Technology Usage Dashboard](current_tech_usage.png)
+![Current Technology Usage Dashboard](images/current_tech_usage.png)
 
 ### Dashboard Tab 2: Future Technology Trends
 
-> Replace with screenshot of Cognos Dashboard Tab 2
-
-![Future Technology Trends Dashboard](future_tech_trend.png)
+![Future Technology Trends Dashboard](images/future_tech_trend.png)
 
 ### Dashboard Tab 3: Developer Demographics
 
-> Replace with screenshot of Cognos Dashboard Tab 3
-
-![Developer Demographics Dashboard](demographics.png)
+![Developer Demographics Dashboard](images/demographics.png)
 
 ---
 
